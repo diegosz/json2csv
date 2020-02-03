@@ -6,3 +6,4 @@ tmp/
 devtool/
 devtools/bin
 releases/
+.vscode/settings.json
